@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+P{
+    font-family: times, serif; 
+    font-size:14px; 
+    font-style:italic;
+}
+img{
+    height: 20vh;
+    width: 22.5vh;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+table, th, td{
+    height: 15vh;
+    width: 50vw;    
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid black;
+}
+th{
+    background-color: lightgray;
+}
+td, th{
+    padding: 5px;
+    text-align: center;
+}
